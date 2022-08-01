@@ -62,7 +62,7 @@ body {
 
 /* Hero */
 #hero {
-    background: url(/images/banner-img-1.jpg) top/cover;
+    background: url(../images/banner-img-1.jpg) top/cover;
 }
 
 .carousel-inner h1 {
