@@ -120,3 +120,35 @@ body {
     font-size: 60px;
     font-family: var(--lg-font);
 }
+
+/* Newsletter */
+#newsletter p {
+    max-width: 600px;
+}
+
+#newsletter .input-group {
+    max-width: 500px;
+}
+
+#newsletter .form-control {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+#newsletter .btn {
+    background-color: var(--pink);
+    color: white;
+    border-color: var(--pink);
+}
+
+#newsletter .btn:hover {
+    background-color: black;
+    border-color: black;
+}  
+
+/* Footer */
+footer .brand {
+    font-family: var(--lg-font);
+    letter-spacing: 2px;;
+
+}
